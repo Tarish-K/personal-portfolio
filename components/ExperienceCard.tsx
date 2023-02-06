@@ -20,8 +20,8 @@ export default function ExperienceCard({}: Props) {
     </motion.div>
 
     <div className='px-0 md:px-10'>
-        <h4 className='text-4xl font-light'>CEO PAPAFAM</h4>
-        <p className='mt-1 text-2xl font-bold'>PAPAFAM</p>
+        <h4 className='text-4xl font-light'>CEO Tarish</h4>
+        <p className='mt-1 text-2xl font-bold'>TK</p>
         <div className='flex my-2 space-x-2'>
             <Image className='w-10 h-10 rounded-full' src={pic4} alt="" />
             <Image className='w-10 h-10 rounded-full' src={pic4} alt="" />
